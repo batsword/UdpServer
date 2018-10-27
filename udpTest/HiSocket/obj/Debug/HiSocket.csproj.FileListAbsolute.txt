@@ -1,0 +1,22 @@
+D:\MyGit\github\HiSocket\visual\HiSocket\bin\Debug\HiSocket.dll
+D:\MyGit\github\HiSocket\visual\HiSocket\bin\Debug\HiSocket.pdb
+D:\MyGit\github\HiSocket\visual\release\HiSocket.dll
+D:\MyGit\github\HiSocket\visual\release\HiSocket.pdb
+D:\MyGit\github\HiSocket\visual\HiSocket\obj\Debug\HiSocket.csproj.CoreCompileInputs.cache
+D:\MyGit\github\HiSocket\visual\HiSocket\obj\Debug\HiSocket.dll
+D:\MyGit\github\HiSocket\visual\HiSocket\obj\Debug\HiSocket.pdb
+D:\MyGit\github\HiSocket\src\release\HiSocket.dll
+D:\MyGit\github\HiSocket\src\release\HiSocket.pdb
+D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.csprojAssemblyReference.cache
+D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.csproj.CoreCompileInputs.cache
+D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.dll
+D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.pdb
+E:\zyj\git\HiSocket\src\release\HiSocket.dll
+E:\zyj\git\HiSocket\src\release\HiSocket.pdb
+E:\zyj\git\HiSocket\src\HiSocket\obj\Debug\HiSocket.csprojResolveAssemblyReference.cache
+E:\zyj\git\HiSocket\src\HiSocket\obj\Debug\HiSocket.dll
+E:\zyj\git\HiSocket\src\HiSocket\obj\Debug\HiSocket.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\udpTest\udpTest\release\HiSocket.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\udpTest\udpTest\release\HiSocket.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\udpTest\udpTest\HiSocket\obj\Debug\HiSocket.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\udpTest\udpTest\HiSocket\obj\Debug\HiSocket.pdb

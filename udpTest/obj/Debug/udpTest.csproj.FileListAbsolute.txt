@@ -1,0 +1,16 @@
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\bin\Debug\udpTest.exe.config
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\bin\Debug\udpTest.exe
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\bin\Debug\udpTest.pdb
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\bin\Debug\HiSocket.dll
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest.csprojResolveAssemblyReference.cache
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\MainWindow.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\App.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest_MarkupCompile.cache
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest_MarkupCompile.lref
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\MainWindow.baml
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest.g.resources
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest.Properties.Resources.resources
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest.csproj.GenerateResource.Cache
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest.exe
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\obj\Debug\udpTest.pdb
+c:\users\14923\documents\visual studio 2015\Projects\udpTest\udpTest\bin\Debug\HiSocket.pdb
